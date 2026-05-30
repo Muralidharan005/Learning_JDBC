@@ -25,8 +25,6 @@ public class AlterTable {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-
 	}
 
 }
